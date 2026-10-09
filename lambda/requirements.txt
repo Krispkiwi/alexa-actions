@@ -4,4 +4,4 @@ ask-sdk-runtime==1.19.0
 isodate==0.6.1
 pydantic==1.10.26
 typing-extensions>=4.10,<5
-urllib3>=2.6,<3
+urllib3>=1.26.20,<2
